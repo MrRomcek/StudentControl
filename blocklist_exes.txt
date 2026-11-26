@@ -1,0 +1,19 @@
+# Игры и лаунчеры
+steam.exe
+steamwebhelper.exe
+epicgameslauncher.exe
+robloxplayerbeta.exe
+robloxplayerlauncher.exe
+minecraft.exe
+MinecraftLauncher.exe
+GTA5.exe
+fivem.exe
+
+# Мессенджеры и соцсети
+discord.exe
+telegram.exe
+whatsapp.exe
+
+# Установщики
+SteamSetup.exe
+RobloxPlayerInstaller.exe
